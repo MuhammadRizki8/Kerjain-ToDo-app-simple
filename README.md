@@ -1,3 +1,7 @@
+![Screenshot 2024-02-09 200313](https://github.com/MuhammadRizki8/Kerjain-ToDo-app-simple/assets/100481579/e7f44b39-d79c-41d3-b8aa-4cac6bec7f75)
+![Screenshot 2024-02-09 200231](https://github.com/MuhammadRizki8/Kerjain-ToDo-app-simple/assets/100481579/a6bf59a6-d4e2-45ac-8354-373e68f4fe86)
+<br>
+### entahlah
 # todo_list_app
 
 A new Flutter project.
